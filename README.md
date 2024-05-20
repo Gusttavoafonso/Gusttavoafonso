@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Ola, me chamo Gustavo Afonso<br>Estou cursando Ciências de dados e IA na UFPB 📙📚<br>Procuro aprofundar meus conhecimentos na área 💡<br>Procuro poder colaborar com a comunidade cientifica 🧪<br>Como me contatar:gustavoafonso892@gmail.com 📩
+.Ola, me chamo Gustavo Afonso<br>.Estou cursando Ciências de dados e IA na UFPB 📙📚<br>.Procuro aprofundar meus conhecimentos na área 💡<br>.Procuro poder colaborar com a comunidade cientifica 🧪<br>.Como me contatar:gustavoafonso892@gmail.com 📩
 
 
 # 💻 Tech Stack:
