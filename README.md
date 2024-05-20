@@ -7,7 +7,7 @@ Ola, me chamo Gustavo Afonso<br>Estou cursando Ciências de dados e IA na UFPB �
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gusttavoafonso&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gusttavoafonso&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttavoafonso&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?
 
 ---
 
