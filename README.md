@@ -42,17 +42,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttavoafonso&layout=compact&theme=github_dark" alt="Linguagens mais usadas" width="45%" />
-</p>
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
-
-##  "A duvida é o principio da sabedoria"
-— Aristóteles
 
 
 
