@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tecnologias que aprendidas
+## 🛠️ Tecnologias aprendidas
 
 <p align="center">
   
