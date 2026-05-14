@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Atualiza a imagem automaticamente todos os dias à meia-noite
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite que você rode a ação manualmente clicando em um botão
+  workflow_dispatch:
+  # Roda a ação toda vez que você fizer um push no repositório
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # O token de acesso criado
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Configurações básicas
+          user: Gusttavoafonso
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Fuso horário para os commits
+          config_timezone: America/Sao_Paulo
+          
+          # Plugins - Exemplo: Linguagens mais usadas
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
