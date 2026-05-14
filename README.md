@@ -1,45 +1,88 @@
-<h1 align="center">Olá! 👋 Eu sou o Gustavo Afonso</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=header" />
+</div>
 
-<p align="center">
-🎓 Estudante de <strong>Ciência de Dados e Inteligência Artificial</strong> na <strong>UFPB</strong> <br>
-🚀 Focado por aprender e explorar o mundo da tecnologia e ciência de dados <br>
-🔬 Buscando contribuir com a <strong>comunidade científica</strong> e crescer como desenvolvedor <br>
-📫 Entre em contato: <a href="mailto:gustavoafonso892@gmail.com">gustavoafonso892@gmail.com</a>
-</p>
 
----
+<br>
 
-## 🛠️ Tecnologias aprendidas
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-2D3F66?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+### 🧠 Sobre Mim
 
-</p>
+Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de problemas.
+
+- 🔬 Pesquisador no **LIM** e no **TRIL**
+- ⚙️ Diretor de Automação na **CortechX**
+- 🤖 Orquestração de **pipelines agentísticos** e **RAG com LLMs**
+- 📦 Construção de sistemas de **Machine Learning** de alto impacto
+
+<br clear="right"/>
 
 ---
 
-## 🌱 Oque estou trabalhando no momento
+<br>
 
-- Machine Learning & Deep Learning 🤖
-- Estatística e Probabilidade 📊
-- Python para análise e ciência de dados 🐍
-- Versionamento com Git e GitHub 🧑‍💻
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**IA & Frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Infra & Deploy**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
 
 ---
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<br>
+
+## 📊 Métricas & Atividade
+
+<div align="center">
+
+<img src="metrics.geral.svg" width="49%" alt="Visão Geral" />
+<img src="metrics.plugin.languages.indepth.svg" width="49%" alt="Linguagens" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="80%" alt="3D Contribution Graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+
+</div>
 
 ---
 
+<br>
 
+<!-- FOOTER WAVE -->
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
