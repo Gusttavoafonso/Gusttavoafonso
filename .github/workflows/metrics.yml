@@ -10,13 +10,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      #  IMAGEM 1: MÉTRICAS GERAIS 
+      # IMAGEM 1: MÉTRICAS GERAIS
       - name: General
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.geral.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Gusttavoafonso
           base: header, activity, community, repositories, metadata
           
       # IMAGEM 2: TÓPICOS
@@ -25,7 +24,6 @@ jobs:
         with:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Gusttavoafonso
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
@@ -36,7 +34,6 @@ jobs:
         with:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Gusttavoafonso
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
