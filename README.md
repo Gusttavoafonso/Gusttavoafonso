@@ -1,58 +1,47 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=header" />
-</div>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Gustavo Afonso · Observatório de Dados e IA. Ciência de Dados e IA, Pesquisador Sênior, UFPB." width="100%">
+</p>
 
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<img src="./assets/header-sobre.svg" alt="Sobre mim" width="100%">
 
 <br>
 
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 🧠 Sobre Mim
+<img align="right" width="34%" src="./assets/astrolabe.svg" alt="Carta celeste animada">
 
 Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de problemas.
 
-- 🔬 Pesquisador no **LIM** e no **TRIL**
-- ⚙️ Diretor de Automação na **CortechX**
-- 🤖 Orquestração de **pipelines agentísticos** e **RAG com LLMs**
-- 📦 Construção de sistemas de **Machine Learning** de alto impacto
+- Pesquisador no **LIM** e no **TRIL**
+- Diretor de Automação na **CortechX**
+- Orquestração de **pipelines agentísticos** e **RAG com LLMs**
+- Construção de sistemas de **Machine Learning** de alto impacto
 
 <br clear="right"/>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<img src="./assets/header-stack.svg" alt="Tech Stack" width="100%">
 
 <br>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech stack: Python, C++, SQL, LangChain, LangGraph, OpenAI, FastAPI, PyTorch, TensorFlow, OpenCV, Docker, Git, Vercel e Render" width="100%">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
 
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**IA & Frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Infra & Deploy**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
----
+<img src="./assets/header-metricas.svg" alt="Métricas e Atividade" width="100%">
 
 <br>
 
-## 📊 Métricas & Atividade
-
+<!-- MÉTRICAS: mesmos arquivos de antes, sem alteração -->
 <div align="center">
 
 <img src="metrics.geral.svg" width="49%" alt="Visão Geral" />
@@ -70,19 +59,6 @@ Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de prob
 
 <br>
 
-<div align="center">
-
-
-
-</div>
-
----
-
-<br>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" alt="Obrigado por passar por aqui. João Pessoa, Paraíba, Brasil." width="100%">
+</p>
