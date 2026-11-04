@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=2" alt="Gustavo Afonso · Observatório de Dados e IA. Ciência de Dados e IA, UFPB." width="100%">
+  <img src="./assets/banner-v2.svg" alt="Gustavo Afonso · Observatório de Dados e IA. Ciência de Dados e IA, UFPB." width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="" width="100%">
+  <img src="./assets/divider-v2.svg" alt="" width="100%">
 </p>
 
-<img src="./assets/header-sobre.svg?v=2" alt="Sobre mim" width="100%">
+<img src="./assets/header-sobre-v2.svg" alt="Sobre mim" width="100%">
 
 <br>
 
-<img align="right" width="34%" src="./assets/astrolabe.svg?v=2" alt="Carta celeste animada">
+<img align="right" width="34%" src="./assets/astrolabe-v2.svg" alt="Carta celeste animada">
 
 Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de problemas.
 
@@ -22,22 +22,22 @@ Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de prob
 <br clear="right"/>
 
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="" width="100%">
+  <img src="./assets/divider-v2.svg" alt="" width="100%">
 </p>
 
-<img src="./assets/header-stack.svg?v=2" alt="Tech Stack" width="100%">
+<img src="./assets/header-stack-v2.svg" alt="Tech Stack" width="100%">
 
 <br>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=2" alt="Tech stack: Python, C++, SQL, LangChain, LangGraph, OpenAI, FastAPI, PyTorch, TensorFlow, OpenCV, Docker, Git, Vercel e Render" width="100%">
+  <img src="./assets/stack-v2.svg" alt="Tech stack: Python, C++, SQL, LangChain, LangGraph, OpenAI, FastAPI, PyTorch, TensorFlow, OpenCV, Docker, Git, Vercel e Render" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="" width="100%">
+  <img src="./assets/divider-v2.svg" alt="" width="100%">
 </p>
 
-<img src="./assets/header-metricas.svg?v=2" alt="Métricas e Atividade" width="100%">
+<img src="./assets/header-metricas-v2.svg" alt="Métricas e Atividade" width="100%">
 
 <br>
 
@@ -60,5 +60,5 @@ Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de prob
 <br>
 
 <p align="center">
-  <img src="./assets/footer.svg?v=2" alt="Obrigado por passar por aqui. João Pessoa, Paraíba, Brasil." width="100%">
+  <img src="./assets/footer-v2.svg" alt="Obrigado por passar por aqui. João Pessoa, Paraíba, Brasil." width="100%">
 </p>
