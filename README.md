@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Gustavo Afonso · Observatório de Dados e IA. Ciência de Dados e IA, Pesquisador Sênior, UFPB." width="100%">
+  <img src="./assets/banner.svg" alt="Gustavo Afonso · Observatório de Dados e IA. Ciência de Dados e IA, UFPB." width="100%">
 </p>
 
 <p align="center">
