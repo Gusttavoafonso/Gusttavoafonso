@@ -68,7 +68,7 @@ Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de prob
 <br>
 
 <a href="https://github.com/Gusttavoafonso/Galaxia-de-embeddings">
-  <img src="./assets/galaxia-v2.gif" alt="Galáxia de Embeddings: uma pergunta vira uma estrela e a câmera voa até os artigos mais próximos" width="100%">
+  <img src="./assets/galaxia-v2.webp" alt="Galáxia de Embeddings: uma pergunta vira uma estrela e a câmera voa até os artigos mais próximos" width="100%">
 </a>
 
 Um **mapa 3D do conhecimento**: 52 mil artigos do arXiv viram estrelas, os temas viram constelações batizadas por um LLM, e cada pergunta cai no espaço como uma estrela nova enquanto um **RAG** responde com as vizinhas. Embeddings, UMAP, HDBSCAN e busca semântica rodando no navegador.
