@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Galáxia de Embeddings · mapa 3D do conhecimento</title>
+  <meta name="description" content="Dezenas de milhares de artigos do arXiv como estrelas em um mapa 3D: embeddings, UMAP, HDBSCAN e RAG rodando no navegador.">
+  <meta name="theme-color" content="#03060f">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2303060f'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%23f5d68a'/%3E%3Ccircle cx='7' cy='9' r='1.6' fill='%238fd8ff'/%3E%3Ccircle cx='25' cy='22' r='1.6' fill='%238fd8ff'/%3E%3Ccircle cx='23' cy='7' r='1' fill='%23fff'/%3E%3C/svg%3E">
+</head>
+<body>
+  <canvas id="scene" aria-label="Mapa 3D interativo: cada ponto é um artigo científico"></canvas>
+  <div id="labels" aria-hidden="true"></div>
+
+  <div id="loader">
+    <div class="loader-inner">
+      <p class="eyebrow">mapa 3D do conhecimento</p>
+      <h1>Galáxia de <em>Embeddings</em></h1>
+      <div class="bar"><i id="loader-bar"></i></div>
+      <p id="loader-text" class="mono">acendendo as estrelas…</p>
+    </div>
+  </div>
+
+  <header id="brand">
+    <h1>Galáxia de <em>Embeddings</em></h1>
+    <p id="stats" class="mono"></p>
+  </header>
+
+  <nav id="top-actions">
+    <button id="btn-tour" class="ghost" title="Passeio automático pelas constelações">passeio</button>
+    <button id="btn-about" class="ghost">como funciona</button>
+  </nav>
+
+  <section id="ask">
+    <form id="ask-form" autocomplete="off">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 5 5"/></svg>
+      <input id="q" type="text" maxlength="300" spellcheck="false"
+             placeholder="Pergunte à galáxia (em inglês, a língua do corpus)…" aria-label="Pergunta">
+      <button type="submit" id="ask-go">explorar</button>
+    </form>
+    <div id="chips"></div>
+  </section>
+
+  <aside id="panel" hidden>
+    <button id="panel-close" aria-label="Fechar painel">×</button>
+    <div id="panel-body"></div>
+  </aside>
+
+  <div id="tooltip" hidden></div>
+
+  <footer id="timeline">
+    <button id="play" aria-label="Reproduzir linha do tempo">
+      <svg viewBox="0 0 24 24"><path id="play-icon" d="M8 5v14l11-7z"/></svg>
+    </button>
+    <div id="year" class="serif">—</div>
+    <div class="track">
+      <canvas id="spark" height="34"></canvas>
+      <input id="time" type="range" min="0" max="1000" value="1000" step="1" aria-label="Linha do tempo">
+    </div>
+    <div id="rising">
+      <span class="mono dim">em alta</span>
+      <div id="rising-list"></div>
+    </div>
+  </footer>
+
+  <p id="hint" class="mono">arraste para girar · role para aproximar · clique em uma estrela</p>
+
+  <dialog id="about">
+    <button class="dialog-close" aria-label="Fechar">×</button>
+    <p class="eyebrow">como funciona</p>
+    <h2>Do texto à constelação</h2>
+    <ol id="about-steps"></ol>
+    <p class="mono dim" id="about-foot"></p>
+  </dialog>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

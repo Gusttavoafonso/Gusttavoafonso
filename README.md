@@ -60,5 +60,23 @@ Estudante de **Ciência de Dados e IA** na UFPB, movido pela resolução de prob
 <br>
 
 <p align="center">
+  <img src="./assets/divider-v2.svg" alt="" width="100%">
+</p>
+
+<img src="./assets/header-galaxia-v2.svg" alt="Projeto em destaque: Galáxia de Embeddings" width="100%">
+
+<br>
+
+<a href="./galaxia">
+  <img src="./galaxia/docs/hero.gif" alt="Galáxia de Embeddings: uma pergunta vira uma estrela e a câmera voa até os artigos mais próximos" width="100%">
+</a>
+
+Um **mapa 3D do conhecimento**: dezenas de milhares de artigos do arXiv viram estrelas, os temas viram constelações batizadas por um LLM, e cada pergunta cai no espaço como uma estrela nova enquanto um **RAG** responde com as vizinhas. Embeddings, UMAP, HDBSCAN e busca semântica rodando no navegador.
+
+**[Ver o projeto →](./galaxia)**
+
+<br>
+
+<p align="center">
   <img src="./assets/footer-v2.svg" alt="Obrigado por passar por aqui. João Pessoa, Paraíba, Brasil." width="100%">
 </p>
